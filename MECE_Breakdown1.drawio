@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Enhanced MECE Breakdown" id="0">
+    <mxGraphModel dx="780" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Content Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1E88E5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="20" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Engagement Metrics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1E88E5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Social Media Metrics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1E88E5;" parent="1" vertex="1">
+          <mxGeometry x="400" y="20" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="SEO and Keywords" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1E88E5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Publication Timing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1E88E5;" parent="1" vertex="1">
+          <mxGeometry x="425" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Content Categories" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1E88E5;" parent="1" vertex="1">
+          <mxGeometry x="400" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Sentiment and Subjectivity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1E88E5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="340" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Word Count" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="200" y="20" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NiKdSU4sY-tSRQBwC0vr-21" value="&#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;    &#xa;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry width="30" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Emotional Tone" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="200" y="355" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Subjectivity Level" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="200" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Uniqueness" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="200" y="50" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Length" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="200" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Keywords Performance" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="189.9985714285714" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Images Count" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="189.9985714285714" y="230" width="114.28571428571428" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Videos Count" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="189.9985714285714" y="260" width="114.28571428571428" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Links" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="185.7185714285714" y="290" width="114.28571428571428" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Shares" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="540" y="35" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Genres" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="540" y="135" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Publishing Day" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="565" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Weekend Status" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FDD835;" parent="1" vertex="1">
+          <mxGeometry x="565" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
